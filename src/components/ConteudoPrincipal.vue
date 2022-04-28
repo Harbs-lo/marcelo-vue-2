@@ -14,8 +14,6 @@ export default {
     <NovoComponente />
     <NovoComponente />
     <NovoComponente />
-    <NovoComponente />
-    <NovoComponente />
   </main>
 </template>
 <style></style>
